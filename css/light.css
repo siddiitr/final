@@ -118,13 +118,13 @@ p {
 	background:rgba(244,68,130,0.8);
 }
 .logo_top {
-    color: #000000;
+    color: #FFFFFF;
 }
 .logo_top a {
-    color: #000000;
+    color: #FFFFFF;
 }
 .logo_top a:hover, .logo_top a:hover {
-    color: #000000;
+    color: #C0C000;
 }
 .top_arrow a {
     color: #333333;
