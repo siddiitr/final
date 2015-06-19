@@ -163,7 +163,7 @@ p {
 /* ====================================================== */
 
 .wedding_invitation {
-    background: url("../img/parallax06.jpg") no-repeat fixed center center;
+    background: url("../img/bg3.jpg") no-repeat fixed center center;
     color: #000000;
 }
 .wedding_invitation h2 {
@@ -232,7 +232,7 @@ p {
 /* ====================================================== */
 
 .lovestory_parallax {
-    background: url("../img/parallax07.jpg") no-repeat fixed center center;
+    background: url("../img/bg3.jpg") no-repeat fixed center center;
     color: #000000;
 }
 .lovestory_bottom_parallax {
@@ -272,10 +272,10 @@ p {
 /* ====================================================== */
 
 .rsvp_main {
-    background: url("../img/parallax04.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+    background: url("../img/bg15.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
 }
 .rsvp_main_parallax {
-    background:rgba(244,68,130,0.9) url(../img/arrow.png) repeat-x top;
+    background:rgba(244,68,130,0.5) url(../img/arrow.png) repeat-x top;
 }
 .rsvp_bottom_bg {
     background:url(../img/arrow1.png) repeat-x bottom;

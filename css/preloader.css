@@ -17,7 +17,7 @@
 }
 
 .background_image{
-	background-image:url(img/favicon.ico); 
+	background-image:url(../images/preloader_background.jpg); 
 	background-position:center center; 
 	background-size:cover; 
 }
