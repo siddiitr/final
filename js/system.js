@@ -1,4 +1,4 @@
-// Lantern Wedding Theme 
+//Wedding Theme 
 // Version : v1.0
 (function() {
 	"use strict";
