@@ -7,10 +7,10 @@ $(function() {
 			{ src:'img/bg2.jpg', fade:1000 },
 			{ src:'img/bg3.jpg', fade:1000 },
 			{ src:'img/bg4.jpg', fade:1000 },
-			{ src:'img/bg11.jpg', fade:1000 },
-			{ src:'img/bg12.jpg', fade:1000 },
-			{ src:'img/bg14.jpg', fade:1000 },
-			{ src:'img/bg5.jpg', fade:1000 }
+			{ src:'img/bg5.jpg', fade:1000 },
+			{ src:'img/bg6.jpg', fade:1000 },
+			{ src:'img/bg7.jpg', fade:1000 },
+			{ src:'img/bg8.jpg', fade:1000 }
 		]
 	})
 });
