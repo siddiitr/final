@@ -87,6 +87,9 @@
     $(document).ready( function() {
       $('#tab-container').easytabs();
     });
+	$(document).ready( function() {
+      $('#tab-container1').easytabs();
+    });
 	
 	
 })(jQuery);
