@@ -193,11 +193,15 @@ p.big-text {
 	-webkit-transform:all 300ms linear 0s;
 	-ms-transition: all 300ms linear 0s;
 }
+.g-maps {
+border: 5px solid rgba(0, 0, 0, 0.1);
+}
 .google-maps {
         position: relative;
         padding-bottom: 65%; // This is the aspect ratio
         height: 0;
         overflow: hidden;
+		border: 5px solid rgba(0, 0, 0, 0.1);
     }
     .google-maps iframe {
         position: absolute;
