@@ -141,15 +141,15 @@ p.big-text {
     z-index: 10000;
 }
 #loader {
-    background-image: url("../img/loader.html");
+    background-image: url("../img/preloader.gif");
     background-position: center center;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 20px;
     left: 50%;
     margin: -100px 0 0 -100px;
     position: absolute;
     top: 50%;
-    width: 200px;
+    width: 160px;
 }
 
 /* ====================================================== */
