@@ -141,7 +141,7 @@ p.big-text {
     z-index: 10000;
 }
 #loader {
-    background-image: url("../img/preloader.gif");
+    background-image: url("../img/preloader.GIF");
     background-position: center center;
     background-repeat: no-repeat;
     height: 20px;
