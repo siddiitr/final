@@ -144,12 +144,12 @@ p.big-text {
     background-image: url("../img/preloader.GIF");
     background-position: center center;
     background-repeat: no-repeat;
-    height: 64px;
+    height: 200px;
     left: 50%;
     margin: -100px 0 0 -100px;
     position: absolute;
     top: 50%;
-    width: 64px;
+    width: 200px;
 }
 
 /* ====================================================== */
