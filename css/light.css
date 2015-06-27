@@ -308,6 +308,7 @@ p {
 }
 .textarea_text_w {
     color: #000000;
+	background:rgba(251,251,251,0.2);
 }
 
 .contact_address_cont {
@@ -363,7 +364,7 @@ p {
 	-moz-border-radius:5px;
 }
 .textarea_text_w {
-    border-color: rgba(0, 0, 0, 0.2);
+    border-color: rgba(0, 0, 0, 0.3);
 }
 
 /* Placeholder Property */
@@ -394,6 +395,18 @@ p {
 .textarea_text:focus:-moz-placeholder { color:#333333; opacity:0; } /* FF 4-18 */
 .textarea_text:focus::-moz-placeholder { color:#333333; opacity:0; } /* FF 19+ */
 
+.textarea_text_w::input-placeholder { color:#000000; opacity:1; }
+.textarea_text_w:input-placeholder { color:#000000; opacity:1; }
+.textarea_text_w:-webkit-input-placeholder { color:#000000; opacity:1; }
+.textarea_text_w::-webkit-input-placeholder { color:#000000; opacity:1; }
+.textarea_text_w:-moz-placeholder { color:#000000; opacity:1; } /* FF 4-18 */
+.textarea_text_w::-moz-placeholder { color:#000000; opacity:1; } /* FF 19+ */
+.textarea_text_w:focus:input-placeholder { color:#000000; opacity:0; }
+.textarea_text_w:focus::input-placeholder { color:#000000; opacity:0; }
+.textarea_text_w:focus:-webkit-input-placeholder { color:#000000; opacity:0; }
+.textarea_text_w:focus::-webkit-input-placeholder { color:#000000; opacity:0; }
+.textarea_text_w:focus:-moz-placeholder { color:#000000; opacity:0; } /* FF 4-18 */
+.textarea_text_w:focus::-moz-placeholder { color:#000000; opacity:0; } /* FF 19+ */
 
 .input_text_w::input-placeholder { color:#000000; opacity:1; }
 .input_text_w:input-placeholder { color:#000000; opacity:1; }
